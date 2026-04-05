@@ -1,5 +1,3 @@
-# Quantum
-Quantum Agency's first website
 <!DOCTYPE html>
 <html lang="en">
 <head>
